@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/arithmetic_mean_arrays.dir/main.c.o  -o arithmetic_mean_arrays 

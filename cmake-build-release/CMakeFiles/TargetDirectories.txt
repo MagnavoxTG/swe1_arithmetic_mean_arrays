@@ -1,0 +1,3 @@
+/home/magnavox/CLionProjects/arithmetic_mean_arrays/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/magnavox/CLionProjects/arithmetic_mean_arrays/cmake-build-release/CMakeFiles/arithmetic_mean_arrays.dir
+/home/magnavox/CLionProjects/arithmetic_mean_arrays/cmake-build-release/CMakeFiles/edit_cache.dir
